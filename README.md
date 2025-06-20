@@ -6,7 +6,7 @@
 
 ```bash
 # Клонирование и переход в директорию
-git clone <your-repo-url>
+git clone <https://github.com/Anuar000/TaskManager.git>
 cd todolist_project
 
 # Установка зависимостей
